@@ -1,0 +1,230 @@
+[Buttonbar]
+Buttoncount=54
+
+button2  = Wcmicons.icl
+cmd2     = %COMMANDER_PATH%\default.bar
+menu2    = Головна панель
+
+button3  = Wcmicons.icl,65
+cmd3     = %COMMANDER_PATH%\Default1.bar
+menu3    = Панель системи та налаштувань
+
+button4  = Wcmicons.icl,66
+cmd4     = %COMMANDER_PATH%\Default2.bar
+menu4    = Панель програм
+
+button6  = Wcmicons.icl,32
+cmd6     = %COMMANDER_PATH%\Default3MyBar.bar
+menu6    = Моя панель
+
+
+button8  = %COMMANDER_PATH%\ProgramFiles\01.security\VeraCryptPortable\VeraCryptPortable.exe
+cmd8     = %COMMANDER_PATH%\ProgramFiles\01.security\VeraCryptPortable\VeraCryptPortable.exe
+path8    = %COMMANDER_PATH%\ProgramFiles\01.security\VeraCryptPortable\
+menu8    = VeraCryptPortable 1.23_Hotfix_2
+
+button9  = %COMMANDER_PATH%\ProgramFiles\01.security\PasswordSafePortable\PasswordSafePortable.exe
+cmd9     = %COMMANDER_PATH%\ProgramFiles\01.security\PasswordSafePortable\PasswordSafePortable.exe
+path9    = %COMMANDER_PATH%\ProgramFiles\01.security\PasswordSafePortable\
+menu9    = PasswordSafePortable 3.48.0
+
+button10 = %COMMANDER_PATH%\ProgramFiles\01.security\PWGenPortable\PWGenPortable.exe
+cmd10    = %COMMANDER_PATH%\ProgramFiles\01.security\PWGenPortable\PWGenPortable.exe
+path10   = %COMMANDER_PATH%\ProgramFiles\01.security\PWGenPortable\
+menu10   = PWGenPortable 2.9.0
+
+button11 = %COMMANDER_PATH%\ProgramFiles\01.security\GenPass.exe
+cmd11    = %COMMANDER_PATH%\ProgramFiles\01.security\GenPass.exe
+path11   = %COMMANDER_PATH%\ProgramFiles\01.security\
+menu11   = GenPass
+
+button12 = %COMMANDER_PATH%\ProgramFiles\01.security\LockNote\LockNote.exe
+cmd12    = %COMMANDER_PATH%\ProgramFiles\01.security\LockNote\LockNote.exe
+path12   = %COMMANDER_PATH%\ProgramFiles\01.security\LockNote\
+menu12   = LockNote 1.0.5
+
+button13 = %COMMANDER_PATH%\ProgramFiles\01.security\PortablePGP\PortablePGP.exe
+cmd13    = %COMMANDER_PATH%\ProgramFiles\01.security\PortablePGP\PortablePGP.exe
+path13   = %COMMANDER_PATH%\ProgramFiles\01.security\PortablePGP\
+menu13   = PortablePGP
+
+button14 = %COMMANDER_PATH%\ProgramFiles\01.security\ccPortable\ccPortable.exe
+cmd14    = %COMMANDER_PATH%\ProgramFiles\01.security\ccPortable\ccPortable.exe
+path14   = %COMMANDER_PATH%\ProgramFiles\01.security\ccPortable\
+menu14   = ccPortable 5.52.6967
+
+button15 = %COMMANDER_PATH%\ProgramFiles\01.security\ClamWinPortable\ClamWinPortable.exe
+cmd15    = %COMMANDER_PATH%\ProgramFiles\01.security\ClamWinPortable\ClamWinPortable.exe
+path15   = %COMMANDER_PATH%\ProgramFiles\01.security\ClamWinPortable\
+menu15   = ClamWin 0.99.4
+
+
+button17 = %COMMANDER_PATH%\ProgramFiles\02.office\LibreOfficePortable\LibreOfficePortable.exe
+cmd17    = %COMMANDER_PATH%\ProgramFiles\02.office\LibreOfficePortable\LibreOfficePortable.exe
+path17   = %COMMANDER_PATH%\ProgramFiles\02.office\LibreOfficePortable\
+menu17   = LibreOfficePortable 6.1.4_Rev_2
+
+button18 = %COMMANDER_PATH%\ProgramFiles\02.office\MS Office 2007 Portable\MS Office 2007 Portable.exe
+cmd18    = %COMMANDER_PATH%\ProgramFiles\02.office\MS Office 2007 Portable\MS Office 2007 Portable.exe
+path18   = %COMMANDER_PATH%\ProgramFiles\02.office\MS Office 2007 Portable\
+menu18   = MS Office 2007 Portable
+
+button19 = %COMMANDER_PATH%\ProgramFiles\02.office\Notepad++Portable\Notepad++Portable.exe
+cmd19    = %COMMANDER_PATH%\ProgramFiles\02.office\Notepad++Portable\Notepad++Portable.exe
+path19   = %COMMANDER_PATH%\ProgramFiles\02.office\Notepad++Portable\
+menu19   = Notepad++Portable 7.6.4
+
+button20 = %COMMANDER_PATH%\ProgramFiles\02.office\PDF-XChangeViewerPortable\PDF-XChangeViewerPortable.exe
+cmd20    = %COMMANDER_PATH%\ProgramFiles\02.office\PDF-XChangeViewerPortable\PDF-XChangeViewerPortable.exe
+path20   = %COMMANDER_PATH%\ProgramFiles\02.office\PDF-XChangeViewerPortable\
+menu20   = PDF-XChangeViewerPortable 2.5.322.9
+
+button21 = %COMMANDER_PATH%\ProgramFiles\02.office\PDF-XChangeEditorPortable\PDF-XChangeEditorPortable.exe
+cmd21    = %COMMANDER_PATH%\ProgramFiles\02.office\PDF-XChangeEditorPortable\PDF-XChangeEditorPortable.exe
+path21   = %COMMANDER_PATH%\ProgramFiles\02.office\PDF-XChangeEditorPortable\
+menu21   = PDF-XChangeEditorPortable 7.0.326.1
+
+button22 = %COMMANDER_PATH%\ProgramFiles\02.office\WinDjViewPortable\WinDjViewPortable.exe
+cmd22    = %COMMANDER_PATH%\ProgramFiles\02.office\WinDjViewPortable\WinDjViewPortable.exe
+path22   = %COMMANDER_PATH%\ProgramFiles\02.office\WinDjViewPortable\
+menu22   = WinDjViewPortable 1.0.3
+
+
+button24 = %COMMANDER_PATH%\ProgramFiles\03.media\AIMPPortable\AIMPPortable.exe
+cmd24    = %COMMANDER_PATH%\ProgramFiles\03.media\AIMPPortable\AIMPPortable.exe
+path24   = %COMMANDER_PATH%\ProgramFiles\03.media\AIMPPortable\
+menu24   = AIMPPortable 4.51.2084
+
+button25 = %COMMANDER_PATH%\ProgramFiles\03.media\VLCPortable\VLCPortable.exe
+cmd25    = %COMMANDER_PATH%\ProgramFiles\03.media\VLCPortable\VLCPortable.exe
+path25   = %COMMANDER_PATH%\ProgramFiles\03.media\VLCPortable\
+menu25   = VLCPortable 3.0.6
+
+button26 = %COMMANDER_PATH%\ProgramFiles\03.media\JPEGViewPortable\JPEGViewPortable.exe
+cmd26    = %COMMANDER_PATH%\ProgramFiles\03.media\JPEGViewPortable\JPEGViewPortable.exe
+path26   = %COMMANDER_PATH%\ProgramFiles\03.media\JPEGViewPortable\
+menu26   = JPEGViewPortable 1.0.37
+
+button27 = %COMMANDER_PATH%\ProgramFiles\03.media\FSViewerPortable\FSViewerPortable.exe
+cmd27    = %COMMANDER_PATH%\ProgramFiles\03.media\FSViewerPortable\FSViewerPortable.exe
+path27   = %COMMANDER_PATH%\ProgramFiles\03.media\FSViewerPortable\
+menu27   = FSViewerPortable 7.0
+
+button28 = %COMMANDER_PATH%\ProgramFiles\03.media\IrfanViewPortable\IrfanViewPortable.exe
+cmd28    = %COMMANDER_PATH%\ProgramFiles\03.media\IrfanViewPortable\IrfanViewPortable.exe
+path28   = %COMMANDER_PATH%\ProgramFiles\03.media\IrfanViewPortable\
+menu28   = IrfanViewPortable 4.51
+
+button29 = %COMMANDER_PATH%\ProgramFiles\03.media\XnViewPortable\XnViewPortable.exe
+cmd29    = %COMMANDER_PATH%\ProgramFiles\03.media\XnViewPortable\XnViewPortable.exe
+path29   = %COMMANDER_PATH%\ProgramFiles\03.media\XnViewPortable\
+menu29   = XnViewPortable 2.45
+
+
+button31 = %COMMANDER_PATH%\ProgramFiles\04.games\WinBoardPortable\WinBoardPortable.exe
+cmd31    = %COMMANDER_PATH%\ProgramFiles\04.games\WinBoardPortable\WinBoardPortable.exe
+path31   = %COMMANDER_PATH%\ProgramFiles\04.games\WinBoardPortable\
+menu31   = WinBoardPortable 4.8.0
+
+button32 = %COMMANDER_PATH%\ProgramFiles\04.games\SudokuPortable\SudokuPortable.exe
+cmd32    = %COMMANDER_PATH%\ProgramFiles\04.games\SudokuPortable\SudokuPortable.exe
+path32   = %COMMANDER_PATH%\ProgramFiles\04.games\SudokuPortable\
+menu32   = SudokuPortable 1.1.7.4
+
+button33 = %COMMANDER_PATH%\ProgramFiles\04.games\PuzzleCollectionPortable\PuzzleCollectionPortable.exe
+cmd33    = %COMMANDER_PATH%\ProgramFiles\04.games\PuzzleCollectionPortable\PuzzleCollectionPortable.exe
+path33   = %COMMANDER_PATH%\ProgramFiles\04.games\PuzzleCollectionPortable\
+menu33   = PuzzleCollectionPortable 1.9.20161031
+
+button34 = %COMMANDER_PATH%\ProgramFiles\04.games\Tick5Portable\Tick5Portable.exe
+cmd34    = %COMMANDER_PATH%\ProgramFiles\04.games\Tick5Portable\Tick5Portable.exe
+path34   = %COMMANDER_PATH%\ProgramFiles\04.games\Tick5Portable\
+menu34   = Tick5Portable1 1.0_Rev_2
+
+
+button36 = %COMMANDER_PATH%\ProgramFiles\05.programming\SublimeText\sublime_text.exe
+cmd36    = %COMMANDER_PATH%\ProgramFiles\05.programming\SublimeText\sublime_text.exe
+path36   = %COMMANDER_PATH%\ProgramFiles\05.programming\SublimeText\
+menu36   = SublimeText3 3207
+
+button37 = %COMMANDER_PATH%\ProgramFiles\05.programming\SublimeMerge\sublime_merge.exe
+cmd37    = %COMMANDER_PATH%\ProgramFiles\05.programming\SublimeMerge\sublime_merge.exe
+path37   = %COMMANDER_PATH%\ProgramFiles\05.programming\SublimeMerge\
+menu37   = SublimeMerge 1107
+
+button38 = %COMMANDER_PATH%\ProgramFiles\05.programming\PortableGit\git-cmd.exe
+cmd38    = %COMMANDER_PATH%\ProgramFiles\05.programming\PortableGit\git-cmd.exe
+path38   = %COMMANDER_PATH%\ProgramFiles\05.programming\PortableGit\
+menu38   = PortableGit 2.21.0
+
+button39 = %COMMANDER_PATH%\ProgramFiles\05.programming\FileZillaPortable\FileZillaPortable.exe
+cmd39    = %COMMANDER_PATH%\ProgramFiles\05.programming\Tick5Portable\FileZillaPortable.exe
+path39   = %COMMANDER_PATH%\ProgramFiles\05.programming\FileZillaPortable\
+menu39   = FileZillaPortable 3.41.2
+
+button40 = %COMMANDER_PATH%\ProgramFiles\05.programming\GoogleChromePortable\GoogleChromePortable.exe
+cmd40    = %COMMANDER_PATH%\ProgramFiles\05.programming\GoogleChromePortable\GoogleChromePortable.exe
+path40   = %COMMANDER_PATH%\ProgramFiles\05.programming\GoogleChromePortable\
+menu40   = GoogleChromePortable 73.0.36.83.86
+
+button41 = %COMMANDER_PATH%\ProgramFiles\05.programming\OperaPortable\OperaPortable.exe
+cmd41    = %COMMANDER_PATH%\ProgramFiles\05.programming\OperaPortable\OperaPortable.exe
+path41   = %COMMANDER_PATH%\ProgramFiles\05.programming\OperaPortable\
+menu41   = OperaPortable 58.0.3135.127
+
+button42 = %COMMANDER_PATH%\ProgramFiles\05.programming\FirefoxPortableDeveloper\FirefoxPortable.exe
+cmd42    = %COMMANDER_PATH%\ProgramFiles\05.programming\FirefoxPortableDeveloper\FirefoxPortable.exe
+path42   = %COMMANDER_PATH%\ProgramFiles\05.programming\FirefoxPortableDeveloper\
+menu42   = FirefoxPortableDeveloper 67.0_Beta_4
+
+
+button44 = %COMMANDER_PATH%\ProgramFiles\06.utilites\GPU-ZPortable\GPU-ZPortable.exe
+cmd44    = %COMMANDER_PATH%\ProgramFiles\06.utilites\GPU-ZPortable\GPU-ZPortable.exe
+path44   = %COMMANDER_PATH%\ProgramFiles\06.utilites\GPU-ZPortable\
+menu44   = GPU-ZPortable 2.18.0
+
+button45 = %COMMANDER_PATH%\ProgramFiles\06.utilites\7-ZipPortable\7-ZipPortable.exe
+cmd45    = %COMMANDER_PATH%\ProgramFiles\06.utilites\7-ZipPortable\7-ZipPortable.exe
+path45   = %COMMANDER_PATH%\ProgramFiles\06.utilites\7-ZipPortable\
+menu45   = 7-ZipPortable 19.00
+
+button46 = %COMMANDER_PATH%\ProgramFiles\06.utilites\LightscreenPortable\LightscreenPortable.exe
+cmd46    = %COMMANDER_PATH%\ProgramFiles\06.utilites\LightscreenPortable\LightscreenPortable.exe
+path46   = %COMMANDER_PATH%\ProgramFiles\06.utilites\LightscreenPortable\
+menu46   = LightscreenPortable 2.4
+
+
+button48 = Z:\FirefoxPortable\FirefoxPortable.exe
+cmd48    = Z:\FirefoxPortable\FirefoxPortable.exe
+path48   = Z:\FirefoxPortable\
+menu48   = FirefoxPortable 66.0.2
+
+button49 = Z:\ThunderbirdPortable\ThunderbirdPortable.exe
+cmd49    = Z:\ThunderbirdPortable\ThunderbirdPortable.exe
+path49   = Z:\ThunderbirdPortable\
+menu49   = ThunderbirdPortable
+
+button50 = Z:\TelegramDesktopPortable\TelegramDesktopPortable.exe
+cmd50    = Z:\TelegramDesktopPortable\TelegramDesktopPortable.exe
+path50   = Z:\TelegramDesktopPortable\
+menu50   = TelegramDesktopPortable
+
+button51 = Z:\FeedNotifierPortable\FeedNotifierPortable.exe
+cmd51    = Z:\FeedNotifierPortable\FeedNotifierPortable.exe
+path51   = Z:\FeedNotifierPortable\
+menu51   = FeedNotifierPortable
+
+button52 = Z:\Download Master Portable\dmaster.exe
+cmd52    = Z:\Download Master Portable\dmaster.exe
+path52   = Z:\Download Master Portable\
+menu52   = Download Master Portable
+
+button53 = Z:\uTorrentPortable\uTorrentPortable.exe
+cmd53    = Z:\uTorrentPortable\uTorrentPortable.exe
+path53   = Z:\uTorrentPortable\
+menu53   = uTorrentPortable
+
+button54 = %COMMANDER_PATH%\ProgramFiles\06.utilites\FineReaderPortable\ABBYYFineReader11Portable.exe
+cmd54    = %COMMANDER_PATH%\ProgramFiles\06.utilites\FineReaderPortable\ABBYYFineReader11Portable.exe
+path54   = %COMMANDER_PATH%\ProgramFiles\06.utilites\FineReaderPortable\
+menu54   = ABBYY FineReader 11 Portable
